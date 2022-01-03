@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Kauã Barros! 🖐
 
-<!--
-**kauabarrosg/kauabarrosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação 🙂
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![kauabarrosg GitHub stats](https://github-readme-stats.vercel.app/api?username=kauabarrosg&show_icons=true&theme=dracula)
+
+
+
+
+## Tecnologia que uso no meu dia  
+
+
+<div style= "displaay: inline_block"><br/>
+  <img aligm = "center" alt = "Flutter" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  </div><br/>
+
