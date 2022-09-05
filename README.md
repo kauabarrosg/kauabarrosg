@@ -8,7 +8,7 @@ Estudante de programação 🙂
 
 
 
-## Tecnologia que uso no meu dia
+## Tecnologias que uso no meu dia
 
 
 <div style= "displaay: inline_block"><br/>
