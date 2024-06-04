@@ -2,7 +2,6 @@
 
 ## Estudante de programação 🙂
 
- 👨‍💻 Cursando Análise e desenvolvimento de sistema - UniAtenas <br>
  💻 Dev web <br>
  📱 Dev mobile <br>
  
